@@ -1,7 +1,6 @@
 # ASTRA
 The code for ASTRA
 # DATASET STRUCTURE
-"""
 Dataset/
 ├── Train/
 │   ├── Class1/
@@ -18,5 +17,3 @@ Dataset/
     ├── Class2/
     │   ├── video1.mp4
     │   └── ...
-
-"""
