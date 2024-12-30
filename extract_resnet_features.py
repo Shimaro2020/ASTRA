@@ -1,22 +1,4 @@
-"""
-Dataset/
-├── Train/
-│   ├── Class1/
-│   │   ├── video1.mp4
-│   │   ├── video2.mp4
-│   │   └── ...
-│   ├── Class2/
-│   │   ├── video1.mp4
-│   │   └── ...
-└── Test/
-    ├── Class1/
-    │   ├── video1.mp4
-    │   └── ...
-    ├── Class2/
-    │   ├── video1.mp4
-    │   └── ...
 
-"""
 import torch
 import torch.nn as nn
 import torchvision.models as models
